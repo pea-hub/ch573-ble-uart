@@ -1,0 +1,13 @@
+Toolchain=
+Series=
+Description=
+Address=0x00000000
+Target Path=obj\HID_Consumer.hex
+Erase All=true
+Program=true
+Verify=true
+Reset=true
+Vendor=WCH
+MCU=CH573F
+Mcu Type=CH57x
+Link=WCH-Link
